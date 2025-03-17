@@ -7,21 +7,21 @@
 <up A simple WhatsApp User Bot Coded By PKDRILLER❤️</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/yedfbr.jpg"/>       
+<img src="https://files.catbox.moe/n7z1gk.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+NHEZHO-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+pkdriller❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+NHEZHO-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+pkdriller❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2030."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-pkdriller-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/CASEYRHODES"><img title="Author" src="https://img.shields.io/badge/CASEYRHODES-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254112192119"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Pkdriller"><img title="Author" src="https://img.shields.io/badge/CASEYRHODES-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254785392165"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
   <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/CASEYRHODES WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+    <img src="https://img.shields.io/badge/Pkdriller WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
 <p align="center">
