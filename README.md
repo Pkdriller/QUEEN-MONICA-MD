@@ -1,4 +1,4 @@
-#        𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
+#       QUEEN-MONICA-MD
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
