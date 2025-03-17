@@ -25,16 +25,16 @@
   </a>
    
 <p align="center">
-<a href="https://github.com/caseyweb/NHEZHO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/NHEZHO-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/NHEZHO-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/NHEZHO-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/caseyweb/NHEZHO-MDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="CASEYRHODES Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+<a href="https://github.com/Pkdriller/QUEEN-MONICA-MD"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/NHEZHO-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/Pkdriller/QUEEN-MONICA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/NHEZHO-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Pkdriller/QUEEN-MONICA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pkdriller/QUEEN-MONICA-MD?label=Watchers&color=red&style=flat-square"></a>
+<a href="[ ](https://github.com/Pkdriller/QUEEN-MONICA-MD)/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Pkdriller/QUEEN-MONICA-MD/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+        <a href = ""><img alt="Pkdriller Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/caseyweb/NHEZHO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https:[  ](https://github.com/Pkdriller/QUEEN-MONICA-MD)///fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
@@ -62,12 +62,12 @@
 
 
 
-## CONTACT CASEYRHODES TECH
+## CONTACT PKDRILLER 
   
-<a href="https://wa.me/254112192119"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/caseyweb/NHEZHO-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="CASEYRHODES "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+<a href="https://wa.me/254785392165"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href=" https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100091580206517&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100091580206517&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/Pkdriller/QUEEN-MONICA-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="pkdriller"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
 </p>
 
 
@@ -79,14 +79,14 @@
 
 
 <p align="center">
-    <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
+    <a href="https://https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta">
         <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
 
-## CASEYRHODES SUPPORT 
+## PKDRILLER SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=CASEYRHODES XMD +MAKE; STAR ⭐+AND+FORKS+BY+CASEYRHODES XMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=PKXMDBOT+MAKE; STAR ⭐+AND+FORKS+BY+PKXMD-BOT" alt="Typing SVG" /></a>
 
 
 
