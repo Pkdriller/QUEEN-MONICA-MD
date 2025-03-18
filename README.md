@@ -20,7 +20,7 @@
 <p/>
 
  <p align="center">
-  <a href="https://kg-site-support.vercel.app/">
+  <a href="https://pkdriller-site-support.vercel.app/">
     <img src="https://img.shields.io/badge/Pkdriller WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
