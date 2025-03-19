@@ -1,9 +1,9 @@
 {
-  "name":"JUSTA-MD",
-  "description":"Best whatsapp bot created by Justa-Tz",
+  "name":"QUEEN-MONICA-MD",
+  "description":"Best whatsapp bot created by pk driller",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/s326s2.jpg",
-  "repository":"https://github.com/JustaTz03/JustaTz-Md",
+  "logo":"https://files.catbox.moe/n7z1gk.jpg",
+  "repository":"https://github.com/Pkdriller/QUEEN-MONICA-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -47,14 +47,14 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"J𝖀𝗦𝐓Λ𝗧𝙕-MD",
+    "value":"QUEEN-MONICA-MD",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://files.catbox.moe/s326s2.jpg",
+    "value":"https://files.catbox.moe/n7z1gk.jpg",
     "required":false
        
      },
@@ -100,7 +100,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '255')",
     "required":false,
-    "value": "255719442240"
+    "value": "254785392165"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
