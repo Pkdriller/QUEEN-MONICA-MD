@@ -8,14 +8,14 @@ const path = require("path");
 const databasePath = path.join(__dirname, "./database.db");
 const DATABASE_URL = process.env.DATABASE_URL === undefined ? databasePath : process.env.DATABASE_URL;
 module.exports = {
-  'session': process.env.SESSION_ID || "mickey",
+  'session': process.env.SESSION_ID || "pk",
   'PREFIXE': process.env.PREFIX || '+',
-  'OWNER_NAME': process.env.OWNER_NAME || "J𝖀𝗦𝐓Λ𝗧𝙕-MD",
-  'NUMERO_OWNER': process.env.NUMERO_OWNER || "255719442240",
+  'OWNER_NAME': process.env.OWNER_NAME || "QUEEN-MONICA-MD",
+  'NUMERO_OWNER': process.env.NUMERO_OWNER || "254785392165",
   'AUTO_READ_STATUS': process.env.AUTO_READ_STATUS || "non",
   'AUTO_DOWNLOAD_STATUS': process.env.AUTO_DOWNLOAD_STATUS || "non",
-  'BOT': process.env.BOT_NAME || "J𝖀𝗦𝐓Λ𝗧𝙕-MD",
-  'URL': process.env.BOT_MENU_LINKS || "https://files.catbox.moe/s326s2.jpg",
+  'BOT': process.env.BOT_NAME || "QUEEN-MONICA-MD",
+  'URL': process.env.BOT_MENU_LINKS || "https://files.catbox.moe/n7z1gk.jpg",
   'MODE': process.env.PUBLIC_MODE || 'yes',
   'PM_PERMIT': process.env.PM_PERMIT || 'no',
   'HEROKU_APP_NAME': process.env.HEROKU_APP_NAME,

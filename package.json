@@ -9,19 +9,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node index.js", 
     "start": "npx pm2 start index.js --attach",
-    "Justa-Tz": "pm2 start index.js --attach --max-memory-restart 490M",
-    "kinghansmd": "pm2 start index.js --attach",
+    "queen-monicah-md": "pm2 start index.js --attach --max-memory-restart 490M",
+    "queen-monica-md": "pm2 start index.js --attach",
     "c": "tsc"
     },
   "keywords": [
     "bot",
     "Baileys",
-    "Hans-Md",
+    "queen-monica-md",
     "whatsapp",
     "whatsapp-bot",
-    "Hanstz"
+    "pkdriller"
    ],
-  "author": "Hanstz",
+  "author": "Pkdriler",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
