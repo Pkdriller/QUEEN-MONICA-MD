@@ -1,3 +1,4 @@
+
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.genererNomFichier = exports.stick = exports.format = exports.styletext = exports.zJson = exports.getBuffer = exports.reaction = exports.police = exports.zokou = void 0;
@@ -13,4 +14,3 @@ Object.defineProperty(exports, "styletext", { enumerable: true, get: function ()
 Object.defineProperty(exports, "stick", { enumerable: true, get: function () { return mesfonctions_1.stick; } });
 Object.defineProperty(exports, "genererNomFichier", { enumerable: true, get: function () { return mesfonctions_1.genererNomFichier; } });
 var { reagir } = require("./app");
-
