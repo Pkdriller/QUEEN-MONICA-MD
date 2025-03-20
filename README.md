@@ -34,7 +34,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https:[ ](https://github.com/Pkdriller/QUEEN-MONICA-MD)///fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https:[https://github.com/Pkdriller/QUEEN-MONICA-MD](https://github.com/Pkdriller/QUEEN-MONICA-MD)///fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
