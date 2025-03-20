@@ -1,3 +1,3 @@
 module.exports = {
-    githubApiUrl: "https://api.github.com/repos/JustaTz03/JustaTzMd-Commands/contents/Menu.js"
+    githubApiUrl: "https://api.github.com/repo-https://github.com/Pkdriller/QUEEN-MONICA-MD-Commands/contents/Menu.js"
 }; 

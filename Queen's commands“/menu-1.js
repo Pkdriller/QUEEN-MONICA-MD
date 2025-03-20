@@ -30,7 +30,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     const date = moment().format('DD/MM/YYYY');
 
     let infoMsg = `
-╭━━✧J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D✧━━❖
+╭━━✧QUEEN-MONICA-MD✧━━❖
 ┊✺┌────••••────⊷
 ┃✇│◎ 𝙾𝚠𝚗𝚎𝚛 : ${s.OWNER_NAME}
 ┃✇│◎ 𝙿𝚛𝚎𝚏𝚒𝚡 : [ ${s.PREFIXE} ]
@@ -38,13 +38,13 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┃✇│◎ 𝚁𝚊𝚖  : 8/132 GB
 ┃✇│◎ 𝙳𝚊𝚝𝚎  : ${date}
 ┃✇│◎ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┃✇│◎ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D
+┃✇│◎ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : QUEEN-MONICA-MD
 ┃✇│◎ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃✇│ 𝚃𝚑𝚎𝚖𝚎 :J𝖀𝗦𝐓Λ-𝗧𝙕
+┃✇│ 𝚃𝚑𝚎𝚖𝚎 :QUEEN-MONICA-MD
 ┊   └────••••────⊷
-╰━━━••✧J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D✧••━━━◆ \n`;
+╰━━━••✧QUEEN-MONICA-MD✧••━━━◆ \n`;
 
-    let menuMsg = `J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D`;
+    let menuMsg = `QUEEN-MONICA-MD`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -60,7 +60,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> @J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D\n`;
+> @QUEEN-MONICA-MD\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
@@ -69,10 +69,10 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D",
+                    title: "QUEEN-MONICA-MD",
                     body: "Tap here my friend join channel update",
-                    thumbnailUrl: "https://files.catbox.moe/x8updi.jpeg",
-                    sourceUrl: "https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47",
+                    thumbnailUrl: "https://files.catbox.moe/n7z1gk.jpg",
+                    sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }

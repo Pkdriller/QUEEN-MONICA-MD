@@ -41,16 +41,16 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *GROUP* 
 │❒⁠⁠⁠⁠│▸ *REPO*
 │❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47
-│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/CbFcSc22R7R6QLW7dYgJCV
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/JustaTz03/JustaTz-Md
-│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@JustaTz
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
+│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta
+│❒⁠⁠⁠⁠│▸ *REPO* https://github.com/Pkdriller/QUEEN-MONICA-MD
+│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@Pktech-1911
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n─
   `;
     
 let menuMsg = `
-     > J𝖀𝗦𝐓Λ-𝗧𝙕 🚀 BOTS TEAM
+     > QUEEN-MONICA-MD👑 BOTS TEAM
 
 ❒────────────────────❒`;
     
@@ -58,7 +58,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *J𝖀𝗦𝐓Λ-𝗧𝙕 🚀*, déveloper J𝖀𝗦𝐓Λ-𝗧𝙕 🚀" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *QUEEN-MONICA-MD👑*, déveloper PK DRILLER🇰🇪" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -68,7 +68,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *QUEEN-MONICA-MD*, déveloper pk driller" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);

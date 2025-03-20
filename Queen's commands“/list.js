@@ -25,11 +25,11 @@ zokou({
     aliases: ["panelist", "commandlist", "cmdlist", "list"],
     desc: "Get bot command list.",
     categorie: "universal"
-}, async (dest, zk, context) => {
+}, async (dest, zk, 9context) => {
     const { respond, prefix, nomAuteurMessage } = context;
     const commands = require(__dirname + "/../framework/zokou").cm;
 
-    let menu = 'J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D\n\n';
+    let menu = 'QUEEN-MONICA\n\n';
     let keithList = [];
 
     // Loop through all commands to fetch the relevant information (commands, description, and aliases)
@@ -59,10 +59,10 @@ zokou({
         text: menu,
         contextInfo: {
             externalAdReply: {
-                title: "J𝖀𝗦𝐓Λ-𝗧𝙕",
-                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 J𝖀𝗦𝐓Λ-𝗧𝙕",
-                thumbnailUrl: "https://files.catbox.moe/x8updi.jpeg",
-                sourceUrl: "https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47",
+                title: "QUEEN-MONICA-MD",
+                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 PK DRILLER",
+                thumbnailUrl: "https://files.catbox.moe/n7z1gk.jpg",
+                sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
