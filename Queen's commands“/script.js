@@ -51,14 +51,14 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 ❒═══════════❒
-       *J𝖀𝗦𝐓Λ𝗧𝙕 𝐌𝐃*
+       *QUEEN-MONICA-MD*
 ❒═══════════❒`;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *JustaTzMd*, déveloper JustaTz Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *QUEEN-MONICA-MD*, déveloper Pkdriller" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -68,7 +68,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *JustaTzMd*, déveloper JustaTz Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *pk tech*, déveloper pkdriller" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -113,7 +113,7 @@ zokou({ nomCom: "script", categorie: "General" }, async (dest, zk, commandeOptio
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault('Etc/GMT');
+    moment.keny.setDefault('Etc/GMT');
 
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
@@ -123,11 +123,9 @@ const date = moment().format('DD/MM/YYYY');
    *JustaTz Md IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/JustaTz03/JustaTz-Md
+>https://github.com/Pkdriller/QUEEN-MONICA-MD
 
-*WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47
-
+*WHATSAPP CHANNEL
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/JustaTz03/JustaTz-Md-INFO⁠
 ╭───────────────────❒

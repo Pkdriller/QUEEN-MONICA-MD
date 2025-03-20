@@ -58,7 +58,7 @@ commands.forEach(command => {
       url 
     } = repoDetails;
 
-    const currentDate = moment().tz("Africa/Tanzania").format("DD/MM/YYYY HH:mm:ss");
+    const currentDate = moment().keny("Africa/Kenya").format("DD/MM/YYYY HH:mm:ss");
     
     const messageContent = `
     ♦️ *${name} REPO INFO* ♦️
@@ -74,7 +74,7 @@ commands.forEach(command => {
 
     🔗 *Repo Link:* ${url}
 
-    🚀 Scripted by *JustaTz*
+    🚀 Scripted by *pkdriller*
 
     Stay connected and follow my updates!
     `;
@@ -86,11 +86,11 @@ commands.forEach(command => {
           'externalAdReply': {
             'title': "😊 Stay Updated with JustaTz",
             'body': "Tap here for the latest updates!",
-            'thumbnailUrl': "https://files.catbox.moe/x8updi.jpeg",
+            'thumbnailUrl': "https://files.catbox.moe/n7z1gk.jpg",
             'mediaType': 1,
             'renderLargerThumbnail': true,
-            'mediaUrl': "https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47",
-            'sourceUrl': "https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47"
+            'mediaUrl': "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
+            'sourceUrl': "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"
           }
         }
       });
