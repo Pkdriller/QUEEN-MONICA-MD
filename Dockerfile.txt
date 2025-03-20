@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN  git clone https://github.com/JustaTz03/JustaTz-Md  /root/Hans_BOt
+RUN  git clone https://github.com/Pkdriller/QUEEN-MONICA-MD/root/Hans_BOt
 WORKDIR /root/kinghansmd/
 
 
