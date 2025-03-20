@@ -1,16 +1,16 @@
 require('dotenv').config();
 const axios = require('axios');
-const { githubApiUrl } = require("./JUSTATZ_CMDS/JustaTz");
+const { githubApiUrl } = require("./QUEEN-MONICA-MD/pkdriller");
 
-const justatz = process.env.JUSTA_TZ1; // Load justatz from .env
+const justatz = process.env.pkdriller1; // Load queen-monica from .env
 
 if (!justatz) {
-    console.error("❌ GitHub justatz is missing in .env!");
+    console.error("❌ GitHub queen-monica-md is missing in .env!");
     process.exit(1);
 }
 
 axios.get(githubApiUrl, {
-    headers: { Authorization: `Bearer ${justatz}` }
+    headers: { Authorization: `Bearer ${pkdriller}` }
 })
 .then(res => {
     const fileContent = Buffer.from(res.data.content, 'base64').toString();
