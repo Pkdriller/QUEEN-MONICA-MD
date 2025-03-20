@@ -1,10 +1,10 @@
 require('dotenv').config();
 const axios = require('axios');
-const { githubApiUrl } = require("./JUSTATZ_CMDS/JustaTz2");
+const { githubApiUrl } = require("./QUEEN-MONICA-MD_CMDS/pk driller");
 
-const justatz = process.env.JUSTA_TZ1; // Load justatz from .env
+const queenmonica = process.env.pkdriller; // Load queen-monica from .env
 
-if (!justatz) {
+if (!Pkdriller) {
     console.error("❌ Field");
     process.exit(1);
 }

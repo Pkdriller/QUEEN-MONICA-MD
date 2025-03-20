@@ -13,7 +13,7 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   J𝖀𝗦𝐓Λ-𝗧𝙕 md               ║
+║   QUEEN-MONICA-MD               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
@@ -33,14 +33,14 @@ Powered by Zokou-MD`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   J𝖀𝗦𝐓Λ𝗧𝙕-MD               ║
+║   QUEEN-MONICA-MD               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by J𝖀𝗦𝐓Λ𝗧𝙕-MD`);
+Powered by QUEEN-MONICA-MD`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
