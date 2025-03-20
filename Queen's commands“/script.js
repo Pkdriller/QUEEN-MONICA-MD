@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *JustaTz Md IMPORTANT INFO* 
+*QUEEN-MONICA-MD IMPORTANT INFO* 
 ❒═════════════════❒
 *GITHUB LINK*
-> https://github.com/JustaTz03/JustaTz-Md
+>https://github.com/Pkdriller/QUEEN-MONICA-MD 
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47
+> https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 ⁠
 ╭══════════════════⊷❍
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *JustaTz*
+│❒⁠⁠⁠⁠ *DEV* : *pkdriller*
 ╰══════════════════⊷❍
 `;
     
 let menuMsg = `
 ❒═══════════❒
-       *J𝖀𝗦𝐓Λ𝗧𝙕 𝐌𝐃*
+       *QUEEN-MONICA-MD*
 ❒═══════════❒`;
 
    var lien = mybotpic();
@@ -68,7 +68,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *JustaTzMd*, déveloper JustaTz Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *queen-monica-md*, déveloper pkdriller" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -113,31 +113,31 @@ zokou({ nomCom: "script", categorie: "General" }, async (dest, zk, commandeOptio
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault('Etc/GMT');
+    moment.keny.setDefault('Etc/GMT');
 
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *JustaTz Md IMPORTANT INFO* 
+   *QUEEN-MONICA-MD IMPORTANT INFO*
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/JustaTz03/JustaTz-Md
+> https://github.com/Pkdriller/QUEEN-MONICA-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47
+>https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x 
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/JustaTz03/JustaTz-Md-INFO⁠
+> https://github.com/pkdriller//queen-monica-md-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *JustaTz*
+│❒⁠⁠⁠⁠ *DEV* : *pkdriller*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     J𝖀𝗦𝐓Λ𝗧𝙕-MD
+     QUEEN-MONICA-MD
 
 ❒────────────────────❒`;
 
@@ -145,7 +145,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *JustaTzMd*, déveloper JustaTz Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *pkdriller*, déveloper pkdriller" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
