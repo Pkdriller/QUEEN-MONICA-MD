@@ -89,9 +89,9 @@ zokou(_0x2f8f07, async (_0x3538d1, _0x3d7197, _0x5e996d) => {
   let _0xd41245 = _0x369b09.map(_0x1d6aac => _0x1d6aac.id);
   await _0x2005ec("*J𝖀𝗦𝐓Λ-𝗧𝙕 🚀-MD is sending this message to all groups you are in*...");
   for (let _0xeef539 of _0xd41245) {
-    let _0x3fbe82 = "‼️⚠️J𝖀𝗦𝐓Λ-𝗧𝙕 🚀-𝐌𝐃 𝐁𝐑𝐎ADCAST⚠️️‼️\n\n❗*message* : " + _0x2e8468 + "\n\n️‼️ *Author*: " + _0x358629;
+    let _0x3fbe82 = "‼️⚠️QUEEN-MONICA 🚀-𝐌𝐃 𝐁𝐑𝐎ADCAST⚠️️‼️\n\n❗*message* : " + _0x2e8468 + "\n\n️‼️ *Author*: " + _0x358629;
     const _0x4da470 = {
-      'url': "https://files.catbox.moe/s326s2.jpg"
+      'url': "https://files.catbox.moe/n7z1gk.jpg"
     };
     await _0x3d7197.sendMessage(_0xeef539, {
       'image': _0x4da470,

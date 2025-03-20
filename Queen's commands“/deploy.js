@@ -27,7 +27,7 @@ zokou({ nomCom: "deploy", categorie: "General" }, async (dest, zk, commandeOptio
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault('Etc/GMT');
+    moment.kenya.setDefault('Etc/GMT');
 
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
@@ -35,27 +35,27 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 Hello ${nomAuteurMessage},,
-     *JustaTz Md DEPLOYMENT STEPS* 
+     *QUEEN-MONICA-MD DEPLOYMENT STEPS* 
 ╭───────────────────☆
 ★When you want to deploy any whatsapp bot check on its repo and check on its deployment procedure and make sure you have the deployment site e.g;  heroku.com , render.com , Koyeb.com and many more:
 ✔First type the sc ,repo or script command and you will get JustaTz-Md repository 
 ✔From there you are required to get your *Session id* but how,??..
          𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
 ✞ Open this link 👉 😅 then tap on pair code.
-✞ Enter your whatsapp number with the country code e.g;  255719442240 then tap submit 
+✞ Enter your whatsapp number with the country code e.g;  254785392165 then tap submit 
 ✞ JustaTz-Md owner , *JustaTz* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that JustaTz Md owner sent you.
 ✞ After a successful login JustaTz-Md owner 😂 JustaTz will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
 ✞Copy the Session id {the one with unreadable codes and long copy it and send it to your deployer or deploy
-     𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 J𝖀𝗦𝐓Λ𝗧𝙕 𝐌𝐃
+     𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 QUEEN-MONICA-MD
 ✔ Now check on JustaTz-Md  repository in github fork and give a star to this repository before doing anything 🌟or else JustaTz-Md owner won't allow you to deploy his bot💀.
 ✔Tap on heroku deploy tab  given there. First thing you should do is getting your *Heroku Api Key* insert it to the required space .
 ✔Enter the valid *heroku app name* and again repeat it to the blank space asking for app name accordingly.Fill everything and press on the below tab Deploy
 ✔In some heroku apps the buld logs might not show but it will eventually deploy 
-✔Now click on this devs number and give JustaTz-Md owner credits https://wa.me/+255719442240
+✔Now click on this devs number and give Queen-monica-md owner credits https://wa.me/+254785392165
 ╰────────────────────☆`;
 let menuMsg = `
-     𝐑𝐞𝐠𝐚𝐫𝐝𝐬 J𝖀𝗦𝐓Λ-𝗧𝙕`;
+     𝐑𝐞𝐠𝐚𝐫𝐝𝐬 PK DRILLER`;
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {

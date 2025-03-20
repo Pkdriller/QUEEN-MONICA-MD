@@ -18,7 +18,7 @@ zokou({
     if (!_0x8621a4 || _0x8621a4.length === 0) {
       return _0x2e61d5("Example Usage: .code 254112192xxxx.");
     }
-    await _0x2e61d5("ᴡᴀɪᴛ J𝖀𝗦𝐓Λ-𝗧𝙕 ɪs ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ ᴘᴀɪʀ ᴄᴏᴅᴇ...");
+    await _0x2e61d5("ᴡᴀɪᴛ PK ɪs ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ ᴘᴀɪʀ ᴄᴏᴅᴇ...");
     const _0x386b0a = encodeURIComponent(_0x8621a4.join(" "));
     const _0x1ea92d = "https://session-id-pff9.onrender.com/" + _0x386b0a;
     const _0xb59e41 = await axios.get(_0x1ea92d);
