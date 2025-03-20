@@ -6,7 +6,7 @@ let dynamicForks = 5000;
 
 const fetchGitHubRepoDetails = async () => {
   try {
-    const response = await axios.get("https://api.github.com/repos/JustaTz03/JustaTz-Md");
+    const response = await axios.get("https://api.github.com/repos/pkdriller/QUEEN-MONICA-MD");
     const { 
       name, 
       stargazers_count, 
